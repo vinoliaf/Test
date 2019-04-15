@@ -1,0 +1,15 @@
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\TestAutomation.deps.json
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\TestAutomation.runtimeconfig.json
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\TestAutomation.runtimeconfig.dev.json
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\TestAutomation.dll
+C:\Users\sjvda\Documents\Test\TestAutomation\bin\Debug\netcoreapp2.1\TestAutomation.pdb
+C:\Users\sjvda\Documents\Test\TestAutomation\obj\Debug\netcoreapp2.1\TestAutomation.csprojAssemblyReference.cache
+C:\Users\sjvda\Documents\Test\TestAutomation\obj\Debug\netcoreapp2.1\TestAutomation.csproj.CoreCompileInputs.cache
+C:\Users\sjvda\Documents\Test\TestAutomation\obj\Debug\netcoreapp2.1\TestAutomation.AssemblyInfoInputs.cache
+C:\Users\sjvda\Documents\Test\TestAutomation\obj\Debug\netcoreapp2.1\TestAutomation.AssemblyInfo.cs
+C:\Users\sjvda\Documents\Test\TestAutomation\obj\Debug\netcoreapp2.1\TestAutomation.dll
+C:\Users\sjvda\Documents\Test\TestAutomation\obj\Debug\netcoreapp2.1\TestAutomation.pdb
